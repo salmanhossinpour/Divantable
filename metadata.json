@@ -1,0 +1,8 @@
+{
+  "name": "دیوان تخته و مهره | Divan 3D Tabletop",
+  "description": "بازی سه‌بعدی منچ، مار و پله و تخته نرد با قابلیت بازی آنلاین چندنفره برای اندروید و کامپیوتر",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

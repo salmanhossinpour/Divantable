@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "دیوان تخته و مهره — منچ، مار و پله و تخته نرد سه‌بعدی",
+  "short_name": "دیوان تخته",
+  "description": "بازی سه‌بعدی منچ، مار و پله و تخته نرد آنلاین و آفلاین برای موبایل و کامپیوتر",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#161210",
+  "background_color": "#161210",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
